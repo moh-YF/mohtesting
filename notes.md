@@ -1,2 +1,2 @@
 #!/bin/bash
-#first cmmit if my file
+#edit my file
